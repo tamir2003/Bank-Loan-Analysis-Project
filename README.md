@@ -33,6 +33,12 @@
 -Regional Trends: Certain states show higher default rates, signaling the need for localized risk assessment.
 -Tenure Analysis: 60-month loans, while larger in funded amounts, carry higher risk of default compared to 36-month loans.
 
+<img width="1001" height="554" alt="Screenshot 2025-09-20 180136" src="https://github.com/user-attachments/assets/9487000d-c4b9-45fd-9d26-5db6b16ee44a" />
+
+<img width="1009" height="553" alt="Screenshot 2025-09-20 180205" src="https://github.com/user-attachments/assets/65f0f59c-3ede-4726-b3d6-b5331b2f5602" />
+
+
+
 **💡 Recommendations**
 -Strengthen Risk Assessment: Focus on screening applicants with high DTI and short employment history.
 -Promote Good Loan Segments: Expand lending to segments with historically higher repayment performance.
