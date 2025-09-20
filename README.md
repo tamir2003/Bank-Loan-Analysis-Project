@@ -14,6 +14,9 @@
 -Applications, Funded Amount, and Amount Received by loan status
 -Loan status summary with Interest Rate and DTI comparison
 
+<img width="1001" height="552" alt="Screenshot 2025-09-20 180106" src="https://github.com/user-attachments/assets/ff06e4de-6b12-4276-b532-c545581c0990" />
+
+
 **3. Trend Analysis**
 -Monthly Loan Trends: Applications, Funded Amount, and Repayments over time
 -State-wise Analysis: Loan applications and repayments across regions
