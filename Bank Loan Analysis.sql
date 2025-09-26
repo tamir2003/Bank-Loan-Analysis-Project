@@ -1,7 +1,7 @@
 ------------------------BANK LOAN REPORT QUERY DOCUMENT-------------------
 
 --BANK LOAN REPORT | SUMMARY
---KPI’s:
+--KPIâ€™s:
 
 --Total Loan Applications
 SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
@@ -34,7 +34,7 @@ SELECT SUM(total_payment) AS Total_Amount_Collected FROM bank_loan_data
 SELECT SUM(total_payment) AS Total_Amount_Collected FROM bank_loan_data
 WHERE MONTH(issue_date) = 12
  
---Previous Month To Date Total Amount Received
+--Previous Month To Date Total Amount Received---
 SELECT SUM(total_payment) AS Total_Amount_Collected FROM bank_loan_data
 WHERE MONTH(issue_date) = 11
  
@@ -198,3 +198,4 @@ FROM bank_loan_data
 WHERE grade = 'A'
 GROUP BY purpose
 ORDER BY purpose
+
